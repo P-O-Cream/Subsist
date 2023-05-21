@@ -21,7 +21,6 @@ import requests
 import posix
 import stat
 import keyword
-# import numpy as np
 
 builtins = dir(__builtins__) # builtins类型字
 keywords = keyword.kwlist # 关键字
